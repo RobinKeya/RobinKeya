@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi 👋
+My name is Robin, I'm an Android Applications developer.
+
+I have Bachelor's degree in ** Computer Science**
+
+I'm currently learning Backend development with **Go Programming language**
+
+You have an exciting project I can collaborate? Tag me along! 
+
+I'm also working on my problem solving, here is the stats!
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/maimakrobin?theme=unicorn)
+
+
+
+
 
 <!--
 **RobinKeya/RobinKeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
