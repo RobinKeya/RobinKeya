@@ -1,7 +1,7 @@
 ### Hi 👋
 My name is Robin, I'm an Android Applications developer.
 
-I have Bachelor's degree in ** Computer Science**
+I have Bachelor's degree in **Computer Science**
 
 I'm currently learning Backend development with **Go Programming language**
 
