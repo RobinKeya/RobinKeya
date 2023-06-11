@@ -1,14 +1,14 @@
 ### Hi 👋
 My name is Robin, I'm an Android Applications developer.
 
-I have Bachelor's degree in **Computer Science** (My computer fundamental knowledge is pretty good!)
+I have Bachelor's degree in **Computer Science** (My fundamentals are pretty good!)
 
 Reach me: maimakrobin@gmail.com ||  [twitter](https://twitter.com/keya_robin) ||  [Linkedln](https://www.linkedin.com/in/robinson-chemaimak/)
 
 
-I'm also working on my problem solving, here is the stats!
+<!I'm also working on my problem solving, here is the stats!
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/maimakrobin?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/maimakrobin?theme=unicorn) -->
 
 
 
