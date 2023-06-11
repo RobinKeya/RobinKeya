@@ -1,11 +1,10 @@
 ### Hi 👋
 My name is Robin, I'm an Android Applications developer.
 
-I have Bachelor's degree in **Computer Science**
+I have Bachelor's degree in **Computer Science** (My computer fundamental knowledge is pretty good!)
 
-I'm currently learning Backend development.
+Reach me: maimakrobin@gmail.com ||  [twitter](https://twitter.com/keya_robin) ||  [Linkedln](https://www.linkedin.com/in/robinson-chemaimak/)
 
-You have an exciting project I can collaborate? Tag me along! 
 
 I'm also working on my problem solving, here is the stats!
 
