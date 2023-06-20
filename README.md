@@ -3,7 +3,7 @@ My name is Robin, I'm an Android Applications developer.
 
 I have Bachelor's degree in **Computer Science** (My fundamentals are pretty good!)
 
-Reach me: maimakrobin@gmail.com ||  [twitter](https://twitter.com/keya_robin) ||  [Linkedln](https://www.linkedin.com/in/robinson-chemaimak/)
+How to reach me: maimakrobin@gmail.com ||  [twitter](https://twitter.com/keya_robin) ||  [Linkedln](https://www.linkedin.com/in/robinson-chemaimak/)
 
 
 <!I'm also working on my problem solving, here is the stats!
