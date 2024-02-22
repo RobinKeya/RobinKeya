@@ -1,7 +1,9 @@
 ### Hi 👋
-My name is Robin, I'm an Android Applications developer.
+My name is Robin, I'm a Software Engineer. I enjoy building and bringing to life solutions to problems.
 
-I have Bachelor's degree in **Computer Science** (My fundamentals are pretty good!)
+I'm currently into Mobile applications Development with a focus on Android. I'm also willing and ready to learn other technologies. 
+
+I have Bachelor's degree in **Computer Science**.
 
 How to reach me: maimakrobin@gmail.com ||  [twitter](https://twitter.com/keya_robin) ||  [Linkedln](https://www.linkedin.com/in/robinson-chemaimak/)
 
